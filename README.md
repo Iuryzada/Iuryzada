@@ -1,5 +1,6 @@
 - 👋 Hello! Welcome to my Github profile.
 - My name is Iury and my nickname is "Iuryzada"!
+- From <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="20" height="20"/>
 - ## I'm learning
 -   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 - ## Contacts:
